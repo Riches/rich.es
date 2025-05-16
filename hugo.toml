@@ -1,0 +1,44 @@
+baseURL = "https://www.rich.es/"
+theme = "hugo-bearblog-neo"
+title = "Will Riches"
+languageCode = "en-GB"
+enableRobotsTXT = true
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/blog/:slug"
+  tags = "/blog/tag/:slug"
+
+[params]
+  title = "Will Riches"
+  description = "Random tech ramblings and other interesting things"
+  favicon = "favicon.png"
+  images = ["images/share.png"]
+  copyright = "Copyright © 2025, Will Riches."
+  groupByYear = true
+  showPostCount = false
+  postSearch = false
+  toc = true
+  upvote = false
+  upvoteURL = "https://post-upvote-api.example.com/" 
+
+  [params.footer]
+    hideCopyright = false
+    hideSitemap = false
+    hideMadeWithLine = true
+    hideRSSAndEmail = true
+
+  [params.RSS]
+    enableRSS = true
+    pageLimit = 10
+    followFeedId = "00000000000000000"
+    followUserId = "00000000000000000"
+
+  [params.author]
+    name = "Will Riches"
+    email = ""
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
