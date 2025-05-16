@@ -27,7 +27,7 @@ programming hobbyist with enthusiasm for computer technology, teamwork, teaching
 entrepreneurship, and the media. Strong in the belief that the best tech professional is forever a
 student.
 
-12 years of experience developing and maintaining full LAMP stack web applications. Strong
+14 years of experience developing and maintaining full LAMP stack web applications. Strong
 written, verbal, and presentational communication skills. Takes a key interest in working with others
 to solve operational problems, both big and small.
 
