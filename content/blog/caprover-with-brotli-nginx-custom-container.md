@@ -1,7 +1,7 @@
 +++
 title = "Enabling Brotli content encoding on CapRover"
 date = "2025-05-16"
-tags = ["Caprover", "Docker", "NGINX"]
+tags = ["CapRover", "Docker", "NGINX"]
 +++
 
 [CapRover](https://caprover.com/) is a fantastic piece of software that I came across last year, it solves a problem
