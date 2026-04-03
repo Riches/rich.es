@@ -10,19 +10,19 @@ I'm a web and tech enthusiast, and this is my personal site. I may blog about ra
 
 ## About me
 
-I currently live in Colchester, UK, with my partner Tania. I left my job in 2024 to work on my own projects, and
-currently do contracting work as [NIXR](https://nixr.com).
+I currently live in Colchester, UK, with my fiancée Tania. I currently work for <a href="https">[wi-Q Technologies](https://www.wi-q.com/) as a Software Engineer.
 
-I'm also working on a larger B2B SaaS project that I hope to release in 2025.
+I also work on my own side projects as [NIXR](https://nixr.com). In 2025 I released [PuffinDNS](https://puffindns.org), a project that I challenged myself to build in a week.
 
-I'm a fan of open source software, but am yet to contribute as much as I would like. Although I'm a Linux fanboy we're
-not yet living in the year of the Linux desktop.
+I'm a fan of open source software, but I haven't contributed as much as I would like.
+
+Surely [current year] is the year of the Linux desktop?
 
 ---
 
 ## Curriculum vitae
 
-A technology leader with proven experience managing software development teams. A self-starter
+A natural leader with proven experience managing software development teams. A self-starter
 programming hobbyist with enthusiasm for computer technology, teamwork, teaching, training,
 entrepreneurship, and the media. Strong in the belief that the best tech professional is forever a
 student.

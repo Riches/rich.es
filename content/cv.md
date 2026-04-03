@@ -7,6 +7,25 @@ menu = "main"
 
 ## Employment
 
+### wi-Q Technologies (December 2025 - Present)
+**Senior Software Engineer**
+
+* Symfony
+* PHP
+* React
+* TypeScript
+* Working in collaborative environment
+* Specialising in:
+  * Upgrading of legacy systems
+  * Innovation in AI-assisted software development
+
+### Personal Projects, contracting, and work break (February 2024 - December 2025)
+**Self-employed**
+
+I was fortunate enough to be able to spend some time away from full time employment. I still remained busy enough on various self-directed side-quests.
+
+Worked on various projects which utilised the same technologies and stack as my previous employments.
+
 #### Total Merchandise Limited (June 2018 - February 2024)
 **Head of Technology**
 
